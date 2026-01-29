@@ -16,7 +16,7 @@ This project builds a supervised machine learning pipeline to predict biodegrada
 - Feature selection: evaluated performance as the number of top-ranked features varies
 - Evaluation: ROC-AUC (and additional classification metrics where applicable)
 
-## Results (Summary)
+## Results 
 - The XGBoost model achieved strong validation performance on this dataset.
 - Feature selection experiments show that competitive performance can be achieved using a reduced subset of features, improving model simplicity and interpretability.
 
