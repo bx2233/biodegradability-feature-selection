@@ -21,4 +21,4 @@ This project builds a supervised machine learning pipeline to predict biodegrada
 - Feature selection experiments show that competitive performance can be achieved using a reduced subset of features, improving model simplicity and interpretability.
 
 ## Report
-- [Project report (PDF)](biodegradability_report.pdf)
+- [Project report (PDF)](reports/biodegradability_report.pdf)
